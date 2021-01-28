@@ -31,3 +31,6 @@ Week | App Downloads | Active users
 3	| 7,500	| 1,500
 4	| 10,000 | 2,000
 5	| 15,000 | 3,000
+
+
+*Attached pdf fill contain the complete details of this project*
